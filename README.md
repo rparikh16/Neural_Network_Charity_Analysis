@@ -28,7 +28,7 @@ Trial # 3 - Overfit the data with too many hidden layers (sigmoid activation):
 
 
 ## Summary
-
+This deep learning model was only able to get to an accuracy of 72.5% using a combination of relu and sigmoid activations. It is unlikely to get to the target accuracy of 75% using this type of deep-learning model. My recommendation would be to try the random forest classifier model as it is able to reduce outliers in the dataset and get a more accurate prediction.
 
 
 
